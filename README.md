@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Kamsi
 
-💻 **Software Developer | Data Enthusiast**  
+💻 **Software Developer**  
 
 ---
 
 ## 🚀 About Me
  Kamsi is a passionate developer who loves crafting efficient and scalable solutions. He brings a keen eye for detail, a commitment to quality code, and a continuous learning mindset. Excited about the intersection of technology and innovation, He is always seeking new challenges to contribute to his skills and expertise. 
 - 📊 Background in **Geophysics & Data Analytics** — bridging science and tech to solve real-world problems.  
-- 🌱 Always learning: Cloud engineering & advanced data visualization.  
+- 🌱 Always learning: Cloud engineering.  
 - ⚡ Fun fact: I enjoy playing video games, watching soccer, and coding in equal measure.  
 
 ---
